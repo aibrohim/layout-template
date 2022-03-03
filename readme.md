@@ -1,1 +1,1 @@
-#Scss template
+# Scss template
